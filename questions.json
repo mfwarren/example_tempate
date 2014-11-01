@@ -1,0 +1,10 @@
+[
+    { "kind": "text",
+      "name": "firstName",
+      "message": "What's your Firstname"
+    },
+    { "kind": "text",
+      "name": "lastName",
+      "message": "What's your surname"
+    }
+]
